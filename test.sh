@@ -1,3 +1,0 @@
-HI,
-
-This is test file
